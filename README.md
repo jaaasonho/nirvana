@@ -116,7 +116,6 @@ Nirvara
 
 ## 联系方式
 
-如果你有任何问题或建议，可以直接提issues，或者通过邮箱联系我：
+如果你有任何问题或建议，可以直接提issues
 
 - Github: https://github.com/hesoso/nirvana/issues
-- Email: 240502633@qq.com
